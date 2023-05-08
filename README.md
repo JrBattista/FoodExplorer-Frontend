@@ -18,6 +18,8 @@ Sistema desenvolvido usando as seguintes ferramentas:
 Deploy
 [https://foodexplorer-project.netlify.app]
 
+
+
 Admin Access 
 (user: admin@email.com)
 (password: 123456)
