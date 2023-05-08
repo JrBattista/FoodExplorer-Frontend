@@ -23,6 +23,9 @@ Admin Access
 (password: 123456)
 
 
+
+
+
 Modo de Execução
 
 O Sistema é dividido em duas partes:
@@ -35,6 +38,10 @@ O Sistema é dividido em duas partes:
 
 Observação:
 É necessário que o backend esteja funcionando para que o frontend possa ser executado.
+
+
+
+
 
 
 
