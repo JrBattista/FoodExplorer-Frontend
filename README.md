@@ -38,7 +38,7 @@ Observação:
 
 Executando a aplicação web (frontend)
 
-1 - Copie repositório deste projeto
+1 - Copie o repositório deste projeto
 
 2 - Acesse a pasta do projeto em seu terminal
 $ cd frontend
